@@ -87,3 +87,8 @@ async function resSoma(a,b,c) {
 resSoma(1,2,3).then(value => console.log(value));
 
 // 8 - Generators
+
+
+
+// 3
+//
